@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (3.4.1)
+  - JGProgressHUD (1.3.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - JGProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  JGProgressHUD: 5b202636fa103db63e6f001888d11ea628133129
+
+PODFILE CHECKSUM: 05fd4590e1eedf5ed1a13ea16eaee3c14946d622
+
+COCOAPODS: 1.0.1

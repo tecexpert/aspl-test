@@ -1,0 +1,6 @@
+framework module Pods_AlamofireClosure {
+  umbrella header "Pods-AlamofireClosure-umbrella.h"
+
+  export *
+  module * { export * }
+}
